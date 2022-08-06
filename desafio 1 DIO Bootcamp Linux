@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Main {
+	public static void main(String[] args){
+
+	Scanner leitor = new Scanner(System.in);
+
+	int A, B, PROD;
+
+	A = leitor.next.Int();
+	B = leitor.next.Int();
+
+	PROD = A * B;
+
+	System.out.printIn("PROD = " + PROD);
+
+	leitor.close();
+
+	}
+}
